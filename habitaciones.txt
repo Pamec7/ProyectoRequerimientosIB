@@ -1,0 +1,2 @@
+200,34.5,2,Quito,Kennedy,true,┬┴┬┴┤且凸且 ┬┴┬┴┤
+1,89.0,2,quito,calleA,true,ima
